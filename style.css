@@ -185,6 +185,25 @@ h6 {
 }
 
 .footer {
-    background: #000;
+    background: #111;
     padding: 4% 0;
+}
+
+.subscription-section {
+    padding-bottom: 8%;
+}
+
+.subscription-form {
+    background: lavender;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+
+.subscription-form input {
+    border: 0;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 20px;
+    width: 50%;
 }
