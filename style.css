@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+}
+body {
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+h6 {
+    font-size: 10px;
+}
+
+p {
+    line-height: 150%;
+}
+
+.header {
+    background-image: url(images/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.content {
+    text-align: center;
+    padding: 10% 30%;
+    background: rgba(0,0,0,0.6);
+}
+
+.content h1 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.content h1 span {
+    color: crimson;
+}
+
+.content p {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: crimson;
+    color: white;
+    padding: 20px 30px;
+    display: inline-block;
+    border-radius: 5px;
+}
