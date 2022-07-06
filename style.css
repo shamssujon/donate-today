@@ -1,6 +1,7 @@
 * {
     margin: 0;
 }
+
 body {
     font-family: "Inter", sans-serif;
     font-size: 20px;
@@ -161,6 +162,7 @@ h6 {
     background: gray;
     padding: 50px 20px;
     flex: 1;
+    border-radius: 5px;
 }
 
 .single-donate-plan.bg-blue {
@@ -211,6 +213,7 @@ h6 {
 .activity-gallery-section {
     padding-bottom: 8%;
 }
+
 .gallery {
     margin: 0;
     padding: 0;
@@ -223,7 +226,6 @@ h6 {
     width: 31%;
     padding: 1%;
 }
-
 
 .gallery img {
     width: 100%;
